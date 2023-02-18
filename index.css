@@ -1,0 +1,42 @@
+h2{
+    color: aliceblue;
+    background-color: black;
+    text-align: center;
+    margin-top: 0%;
+    font-family: "Times New Roman", Times, serif;
+    margin: 0%;
+padding: 0%;
+width: 100%;
+    overflow: hidden;
+   
+}
+h3{
+    text-align: center
+}
+.fea{
+    text-align: ;
+}
+.all{
+border-style: solid;
+    border-radius: 5px;
+    border-width: 1px;
+background-color: rgb(248, 247, 247);
+    padding: 10px;
+
+
+}
+.up{
+    display: inline-block;
+    width: 20%;
+    color: gray;
+}
+.downn{
+    display: inline-block;
+    width: 50%;
+   
+}
+.buti{
+    display: inline-block;
+  color: white;
+   
+}
